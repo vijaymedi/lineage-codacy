@@ -40,5 +40,5 @@ def create_json(feed):
 		html.write(temp_html)
 		html.close()
 	else:
-		temp_html=""	
+		temp_html=""
 	return temp_html
