@@ -59,4 +59,3 @@ def create_json(feed):
 		temp_html=""
 	
 	return temp_html
-    
